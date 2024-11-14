@@ -5,7 +5,8 @@ I'm a Python developer and data enthusiast, with a passion for uncovering insigh
 
 You’ll often find me coding to the background of classical music or The Weeknd’s beats. Because why not add a bit of drama to the code?
 
-![Alt Text](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)
+  ![Alt Text](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)
+
 
 <hr>
 
