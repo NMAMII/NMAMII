@@ -8,7 +8,6 @@ You’ll often find me coding to the background of classical music or The Weeknd
   ![Alt Text](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)
 
 
-<hr>
 
 ### Languages & tools:
 
