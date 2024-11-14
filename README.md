@@ -44,7 +44,7 @@ You’ll often find me coding to the background of classical music or The Weeknd
 Feel free to explore, fork, and maybe even team up for a collab! Every piece of code here is an invitation to create, learn, and have fun along the way.
 #
 <details>
-<summary><h3>More about me</h3></summary>
+<summary><h3>👋 More about me</h3></summary>
 Hey there! I’m Nora, a Python developer and tech enthusiast from Egypt.
 I’m a Computer Science Engineering grad with a passion for AI and data science. 
 Specialize in Python development I've gained hands-on experience in various fields, from building machine learning models to web scraping, API handling, and cloud computing.
