@@ -2,6 +2,7 @@
 ### Hello, Welcome to my GitHub profile!
 
 I'm a Python developer and data enthusiast, with a passion for uncovering insights and bringing data to life. My journey spans data analysis, machine learning, and even a bit of web scraping. Whether it's building a Flask or Django app, designing RESTful APIs, making visualizations pop in Power BI or Tableau, or dabbling in cloud computing.
+
 You’ll often find me coding to the background of classical music or The Weeknd’s beats. Because why not add a bit of drama to the code?
 
   ![Alt Text](https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif)
