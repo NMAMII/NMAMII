@@ -44,7 +44,7 @@ You’ll often find me coding to the background of classical music or The Weeknd
 - 🐍 Python, naturally
 - 📊 SQL, Data Analysis, Visualization
 - 🤖 Machine Learning
-- 🌐 Web Scraping & API Fun
+- 🌐 Web Scraping & API Integration
 - 🛠️ Tools & Platforms: Power BI, Tableau, MySQL Workbench, Excel, Flask, cloud computing
 #
 ### 📫 Let’s Connect!
